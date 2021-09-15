@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.omw2pcafyb.webCheckers;
 
 /**
  * Hello world!
