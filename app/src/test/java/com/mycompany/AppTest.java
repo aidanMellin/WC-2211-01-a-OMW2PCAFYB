@@ -1,4 +1,4 @@
-package com.omw2pcafyb.webCheckers;
+package com.mycompany;
 
 import static org.junit.Assert.assertTrue;
 
